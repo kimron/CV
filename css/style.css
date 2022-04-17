@@ -1,0 +1,82 @@
+/* External CSS */
+body {
+  background-color: #CEE5D0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: 4px;
+  border-color: grey;
+  width: 10%;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: Verdana, sans-serif;
+
+}
+h1 {
+  color: #66BFBF;
+  font-family: Verdana, sans-serif;
+}
+
+p{
+  font-family: Verdana, sans-serif;
+}
+
+li{
+  font-family: Verdana, sans-serif;
+}
+
+ul{
+  font-family: Verdana, sans-serif;
+}
+
+td{
+  font-family: Verdana, sans-serif;
+}
+
+th{
+  font-family: Verdana, sans-serif;
+}
+
+a{
+  font-family: Verdana, sans-serif;
+}
+
+img{
+
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+
+}
+.heading{
+  text-align: left;
+}
+
+.heading1{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pop:hover{
+  background: green;
+}
+
+.p:hover{
+
+  background: #66BFBF;
+  color: #827397;
+  width: 48%;
+  font-size: 18px
+
+
+
+}
+
+
+.p1{
+  display: none;
+}
